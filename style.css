@@ -1,0 +1,37 @@
+.center {
+    margin: auto;
+    width: auto;
+    padding: 200px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0;
+    background-color: lightgray;
+}
+
+.button {
+    border: none;
+    background-color: lightgray;
+    color: gray;
+    padding: 10px 15px;
+    border-radius: 12px;
+}
+
+.textbox {
+    margin: 10px;
+    border: none;
+    border-radius: 25px;
+}
+
+.moveTop {
+    padding-left: 500px;
+}
+
+.moveBottom {
+    padding-left: 200px;
+}
+
+.space {
+    padding: 10px;
+}
